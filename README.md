@@ -1,4 +1,4 @@
-Hi there :) <br>
+Hi <br>
 I'm Master's student in **IT and Cognition** at University of Copenhagen focused on: </br>
 - computational cognitive science
 - Machine Learning in Data Science
