@@ -1,6 +1,6 @@
 Hi <br>
 I'm Master's student in **IT and Cognition** at University of Copenhagen focused on: </br>
-- computational cognitive science
+- Computational Cognitive Science
 - Machine Learning in Data Science
 - Natural Language Processing
 
